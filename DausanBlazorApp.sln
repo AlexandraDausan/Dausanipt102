@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DausanBlazorApp", "DausanBlazorApp\DausanBlazorApp.csproj", "{EBE75918-64DA-493D-B38C-AA498CE67D44}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "DausanDatabase", "DausanDatabase\DausanDatabase.sqlproj", "{8F307154-56CE-4D4D-94C4-7726E6A41FBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBE75918-64DA-493D-B38C-AA498CE67D44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBE75918-64DA-493D-B38C-AA498CE67D44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBE75918-64DA-493D-B38C-AA498CE67D44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBE75918-64DA-493D-B38C-AA498CE67D44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F307154-56CE-4D4D-94C4-7726E6A41FBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F307154-56CE-4D4D-94C4-7726E6A41FBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F307154-56CE-4D4D-94C4-7726E6A41FBB}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{8F307154-56CE-4D4D-94C4-7726E6A41FBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F307154-56CE-4D4D-94C4-7726E6A41FBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F307154-56CE-4D4D-94C4-7726E6A41FBB}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95A38654-81EA-4487-A68A-8B46641CC462}
+	EndGlobalSection
+EndGlobal
