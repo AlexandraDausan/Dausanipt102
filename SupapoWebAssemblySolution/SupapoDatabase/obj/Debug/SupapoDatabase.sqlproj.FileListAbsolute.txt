@@ -1,0 +1,16 @@
+C:\IPT 2ND SEM\SupapoWebAssemblySolution\SupapoDatabase\bin\Debug\SupapoDatabase.dacpac
+C:\IPT 2ND SEM\SupapoWebAssemblySolution\SupapoDatabase\bin\Debug\SupapoDatabase.dll
+C:\IPT 2ND SEM\SupapoWebAssemblySolution\SupapoDatabase\bin\Debug\SupapoDatabase.pdb
+C:\IPT 2ND SEM\SupapoWebAssemblySolution\SupapoDatabase\obj\Debug\SupapoDatabase.sqlproj.AssemblyReference.cache
+C:\IPT 2ND SEM\SupapoWebAssemblySolution\SupapoDatabase\obj\Debug\Model.xml
+C:\IPT 2ND SEM\SupapoWebAssemblySolution\SupapoDatabase\obj\Debug\refactor.xml
+C:\IPT 2ND SEM\SupapoWebAssemblySolution\SupapoDatabase\obj\Debug\postdeploy.sql
+C:\IPT 2ND SEM\SupapoWebAssemblySolution\SupapoDatabase\obj\Debug\predeploy.sql
+C:\IPT 2ND SEM\SupapoWebAssemblySolution\SupapoDatabase\obj\Debug\SupapoDatabase.dll
+C:\IPT 2ND SEM\SupapoWebAssemblySolution\SupapoDatabase\obj\Debug\SupapoDatabase.pdb
+S:\IPT102\SupapoWebAssemblySolution\SupapoDatabase\bin\Debug\SupapoDatabase.dacpac
+S:\IPT102\SupapoWebAssemblySolution\SupapoDatabase\bin\Debug\SupapoDatabase.dll
+S:\IPT102\SupapoWebAssemblySolution\SupapoDatabase\bin\Debug\SupapoDatabase.pdb
+S:\IPT102\SupapoWebAssemblySolution\SupapoDatabase\obj\Debug\SupapoDatabase.sqlproj.AssemblyReference.cache
+S:\IPT102\SupapoWebAssemblySolution\SupapoDatabase\obj\Debug\SupapoDatabase.dll
+S:\IPT102\SupapoWebAssemblySolution\SupapoDatabase\obj\Debug\SupapoDatabase.pdb
